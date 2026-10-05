@@ -2,5 +2,9 @@
     {
         "task": "drink the water on time",
         "completed": true
+    },
+    {
+        "task": "task 2 need to complete",
+        "completed": true
     }
 ]
